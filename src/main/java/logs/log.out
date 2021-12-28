@@ -1,0 +1,9 @@
+2021-12-24 20:12:928 INFO  ManageDriver :33 - Launching chrome 
+2021-12-24 20:12:783 INFO  ManageDriver :33 - Launching chrome 
+2021-12-24 20:12:556 INFO  ManageDriver :33 - Launching chrome 
+2021-12-24 20:12:816 INFO  ManageDriver :33 - Launching chrome 
+2021-12-24 21:12:367 INFO  ManageDriver :33 - Launching chrome 
+2021-12-28 20:12:846 INFO  ManageDriver :33 - Launching chrome 
+2021-12-28 20:12:495 INFO  HomePage :24 - Searching for product  [[ChromeDriver: chrome on WINDOWS (e78cd2d5b5155f055885f575fefa1cad)] -> id: twotabsearchtextbox]
+2021-12-28 20:12:703 INFO  ManageDriver :33 - Launching chrome 
+2021-12-28 20:12:370 INFO  HomePage :24 - Searching for product  [[ChromeDriver: chrome on WINDOWS (d273192b833a0f847f6be2814517f02c)] -> id: twotabsearchtextbox]
